@@ -32,6 +32,6 @@ In this week, you will continue working on your capstone project. Please remembe
 
 ## My Work
 
-1. **Report:** https://github.com/Evanthm88/DataScienceCapstone/DS_Report.ipynb
-2. **Notebook:** https://github.com/Evanthm88/DataScienceCapstone/Tale_of_Two_Cities_A_Data_Science_Take.ipynb
+1. **Report:** https://github.com/Evanthm88/DataScienceCapstone/blob/main/DS_Report.ipynb
+2. **Notebook:** https://github.com/Evanthm88/DataScienceCapstone/blob/main/Tale_of_Two_Cities_A_Data_Science_Take.ipynb
 3. **Blog Post:** https://medium.com/@tgt555/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6?sk=79abb05dd7eed6157e7a87c7c52a98b4
